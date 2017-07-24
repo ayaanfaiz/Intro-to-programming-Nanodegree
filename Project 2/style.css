@@ -1,0 +1,30 @@
+.body{
+	background-color: #B2EBF2;
+}
+.mainhead{
+	font-size: 50px;
+	text-align: center;
+	border: solid;
+	background-color: #FFD54F;
+	font-family: Georgia, serif;
+	padding: 10px;
+	margin: 16px;
+	border-radius: 25px;
+}
+.text{
+	font-size: 20px;
+	margin: 25px;
+	border: double;
+	padding: 25px;
+	background-color: #B2FF59;
+	font-family: monospace;
+}
+.heading{
+	font-size: 30px;
+	margin:30px;
+	padding-left : 25px;
+	font-family: Georgia, serif;
+	border: solid;
+	border-radius: 25px;
+	background-color: #FFAB91;
+}
